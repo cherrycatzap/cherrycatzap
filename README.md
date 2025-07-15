@@ -13,21 +13,9 @@ I entered this program for circuit designing, but lately, I’m loving software 
 
 ## 📊 GitHub Stats:
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=cherrycatzap&show_icons=true&theme=dark&hide_border=true&hide_title=true&count_private=true" width="47%">
-  <img src="https://streak-stats.demolab.com?user=cherrycatzap&theme=dark&hide_border=true&border_radius=5" width="47%">
-</p>
-
----
-
-## 💡 Most Used Languages (Based on Projects):
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=cherrycatzap&theme=dark&hide_border=true&include_all_commits=true&count_private=true)  
+![](https://nirzak-streak-stats.vercel.app/?user=cherrycatzap&theme=dark&hide_border=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cherrycatzap&theme=dark&hide_border=true&layout=compact&langs_count=8)
 
 ---
 
