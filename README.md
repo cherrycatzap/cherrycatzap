@@ -35,13 +35,27 @@ I entered this program for circuit designing, but lately, I’m loving software 
 ## 💻 Languages:
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/>
+  </a>
 </p>
 
 ---
@@ -49,11 +63,21 @@ I entered this program for circuit designing, but lately, I’m loving software 
 ## ⚙️ Tools & Frameworks:
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
+  <a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://opencv.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
+  </a>
 </p>
 
 ---
@@ -61,9 +85,15 @@ I entered this program for circuit designing, but lately, I’m loving software 
 ## 🎨 Design:
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40"/>
+  <a href="https://www.canva.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.adobe.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40"/>
+  </a>
 </p>
 
 ---
