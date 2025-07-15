@@ -13,9 +13,16 @@ I entered this program for circuit designing, but lately, I’m loving software 
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=cherrycatzap&theme=dark&hide_border=true&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=cherrycatzap&theme=dark&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cherrycatzap&theme=dark&hide_border=true&layout=compact&langs_count=8)
+<!-- Contribution Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cherrycatzap&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="47%">
+  <img src="https://streak-stats.demolab.com?user=cherrycatzap&theme=dark&hide_border=true&border_radius=5&fire=DD2727&sideLabels=F7C873" width="47%">
+</p>
+
+<!-- Most Used Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherrycatzap&layout=compact&theme=dark&hide_border=true&langs_count=6&custom_title=Most%20Used%20Languages&exclude_repo=college-stuff,some-junk-repo&hide=HTML,Shell" width="94%">
+</p>
 
 ---
 
