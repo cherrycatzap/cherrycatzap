@@ -13,15 +13,20 @@ I entered this program for circuit designing, but lately, I’m loving software 
 
 ## 📊 GitHub Stats:
 
-<!-- Contribution Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cherrycatzap&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="47%">
-  <img src="https://streak-stats.demolab.com?user=cherrycatzap&theme=dark&hide_border=true&border_radius=5&fire=DD2727&sideLabels=F7C873" width="47%">
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=cherrycatzap&show_icons=true&theme=dark&hide_border=true&hide_title=true&count_private=true" width="47%">
+  <img src="https://streak-stats.demolab.com?user=cherrycatzap&theme=dark&hide_border=true&border_radius=5" width="47%">
 </p>
 
-<!-- Most Used Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherrycatzap&layout=compact&theme=dark&hide_border=true&langs_count=6&custom_title=Most%20Used%20Languages&exclude_repo=college-stuff,some-junk-repo&hide=HTML,Shell" width="94%">
+---
+
+## 💡 Most Used Languages (Based on Projects):
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
 
 ---
